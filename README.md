@@ -37,3 +37,4 @@ for (int row = 0; row < map.length; row++)
 ```
 
 ### Output:
+![output image](https://raw.githubusercontent.com/ellelustrious/relief-map/master/relief-map.png)
